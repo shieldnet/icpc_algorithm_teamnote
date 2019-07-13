@@ -1,4 +1,9 @@
+set smartindent
+set tabstop=4
+set expandtab
+set shiftwidth=4 "
 set cin nu ts=4 sw=4 sts=4 mouse=a
+
 syn on
 
 function! Compile()
